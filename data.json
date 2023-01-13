@@ -4,16 +4,16 @@
         "links": [
             {
                 "name": "My personal blog",
-                "url": "https://twitter.com/ealanisln",
+                "url": "https://www.alanis.dev",
                 "image": "https://pbs.twimg.com/profile_images/1582775352585117835/Onn7dRTA_400x400.jpg"
             },
             {
-                "name": "Vercel",
-                "url": "https://vercel.com"
+                "name": "Linkedin",
+                "url": "https://www.linkedin.com/in/ealanis/"
             },
             {
-                "name": "Next.JS",
-                "url": "https://nextjs.org"
+                "name": "Instagram",
+                "url": "https://www.instagram.com/ealanisln/"
             }
         ],
         "socials": [
